@@ -19,4 +19,4 @@ services:
 
 networks:
   redis-network:
-    driver: bridge
+    driver: overlay
